@@ -1,0 +1,364 @@
+html{
+    overflow-y:auto;
+    overflow-x: hidden;
+    width: 100%;    
+}
+
+.background{
+    background-image: url(../images/gratte079.jpg);
+    height: 500px;
+}
+
+#a1{
+    color: #000;
+}
+#pa{
+    font-size: 45px;
+    color: white;
+    font-weight: 900;
+    margin-top: -30px;
+}
+#im{
+    width: 25px;
+    height: 25px;
+}
+#ima1{
+    margin-left: 850px;
+    display: flex;
+}
+#par{
+font-size: 40px;
+font-weight: 700;
+color: white;
+text-align: center;
+margin-top: 70px;
+}
+#par1{
+font-size: 35px;
+font-weight: 700;
+color: white;
+text-align: center;
+margin-top: 50px;
+}
+#di{
+border: 3px white solid;
+width: 150px;
+margin-top: 60px;
+margin-left: 50px;
+}
+#di1{
+    border: 3px white solid;
+    margin-top: -5px;
+    margin-left: 1135px;
+    width: 150px;
+}
+#aa{
+    border: 3px #000 solid;
+    width: 100px;
+    margin-left: 450px;
+}
+#aa1{
+    border: 3px #000 solid;
+    width: 100px;
+    margin-left: 650px;
+    margin-top: -5px;
+}
+.dive{
+    margin-top: 90px;
+    text-align: center;
+    font-size: 50px;
+    font-weight:900 ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.col{
+    text-align: justify;
+    width: 600px;
+    line-height: 30px;
+    margin-left: 50px;
+    margin-top: 15px;
+}
+.ed{
+    margin-top: 15px;
+    margin-left: 50px;
+}
+#ed1{
+    margin-left: 30px;
+}
+#ff{
+    font-size: 10px;
+}
+.line{
+    position: absolute;
+    font-size: 60px;
+    width: 9cm;
+    left: 20%;
+}
+.line1{
+    position: absolute;
+    font-size: 60px;
+    width: 9cm;
+    left: 460px;
+}
+
+#di{
+    text-align: justify;
+    width: 500px;
+    margin-top: 50px;
+    padding-right: 50px;
+}
+
+
+.span1{
+    font-size: 60px;
+    position: relative;
+    margin-right: 70px;
+    font-weight: 900;
+    color: blue;
+    text-align: center;
+}
+.petie1{
+    background-color: #eee;
+    height: 600px;
+    margin-top: 15px;
+    
+}
+.as{
+    border: 1px #00bff3 solid;
+    margin: 2px;
+    background-color: white;
+    border-radius: 10px;
+    height: 400px;
+}
+.as:hover{
+    background-color: #00bff3;
+}
+#ddd1{
+    border: 3px blue solid;
+    width: 300px;
+     margin-left:20px;
+    margin-top: -20px;
+}
+#ddd2{
+    border: 3px blue solid;
+    width: 300px;
+     margin-left:20px;
+    margin-top:30px;
+}
+#ddd3{
+    border: 3px blue solid;
+    width: 300px;
+     margin-left:20px;
+    margin-top: 45px;
+}
+#ddd4{
+    border: 3px blue solid;
+    width: 300px;
+     margin-left:20px;
+    margin-top: 35px;
+}
+.grand{
+    list-style: none;
+    text-align: center;
+    display: flex;  
+}
+.petit{
+    text-align: center;
+    display: flex;
+    margin-top: 50px;
+}
+#ass{
+    width: 350px;
+    text-align: justify;
+    padding: 20px;
+    font-size: 12px;
+    margin-top: 20px;
+}
+.as3{
+padding: 10px;
+}
+#pr{
+    font-size: 60px;
+    font-weight: 800;
+    color: white;
+    margin-top: 30px;
+}
+#pr1{
+    margin-left: 120px;
+    margin-top: 5px;
+    color: white;
+}
+.ya{
+    border: 1px rgb(148, 87, 209) solid;
+    background-color: rgb(161, 87, 230);
+    width: 600px;
+    height: 170px;
+    margin-left: 450px;
+    border-radius: 1cm;
+}
+.section3{
+   display:inline;
+   
+}
+.tres{
+    display: flex;
+    margin-left: 70px;
+
+}
+#q{
+    text-align: justify;
+    width: 250px;
+}
+.colsection3{
+    margin-top: 30px;
+    margin-left: 90px;
+}
+#dd1{
+    border: 1px #00bff3 solid;
+    background-color: #00bff3;
+    color: white;
+}
+.he{
+    display: flex;
+}
+#q1{
+    text-align: justify;
+    width: 350px;
+    margin-left: 150px;
+}
+#d1{
+    border: 1px #00bff3 solid;
+    background-color: #00bff3;
+    color: white;
+    width: 250px;
+    margin-left: 150px;
+}
+#sec{
+    display: flex; 
+    margin-top: 20px;  
+}
+#se{
+    border: 17px #1ABEA8 solid;
+}
+#se1{
+   font-size: 60px;
+   font-weight: 800;
+   margin-left: 450px;
+   margin-top: 25px;
+}
+#cc{
+    text-align: justify;
+    width: 300px;
+    line-height: 30px;
+}
+.co{
+    margin-left: 40px;
+}
+#im2{
+    width: 300px;
+    height: 150px;
+}
+#ph{
+    width: 300px;
+    height: 200px;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#ww{
+    text-align: justify;
+    width: 350px;
+    text-align: center;
+    margin-left: 450px;
+}
+#va{
+    display: flex;
+}
+#va1{
+    margin-left: 70px;
+    margin-top: 50px;
+}
+#va1{
+  font-size: 22px;
+  font-weight: 600;
+}
+#ve{
+margin-left: 20px;
+}
+#fol{
+   display: flex;
+}
+#fol1{
+    display: flex;
+    
+ }
+ #fol2{
+  margin-left: 100px;
+ }
+ #fol3{
+  margin-left: 350px;
+
+ }
+ #fol4{
+    margin-left: 260px;
+   }
+ #fi{
+    border: 1px #9dd0f5 solid;
+    background-color: #99caec;
+    margin-top: 50px;
+ }
+ #fin{
+margin-top: 50px;
+ }
+ #fin1{
+    color: yellowgreen;
+}
+
+
+
+
+/*css de nav*/
+#dd{
+   border-top: 3px solid #00bff3;
+   border-bottom: 3px solid #00bff3;
+   padding:0;
+   margin:1rem auto;
+   background-color:#eee;
+  background-image:url(https://assets.codepen.io/296057/lil-graydots.png);
+}
+#dd1{
+  list-style-type:none;
+  padding:0;
+  margin:0;
+  display:flex;
+  justify-content:space-evenly;
+ align-items:center;
+      
+  
+  }
+
+#a1{
+  color:#00bff3;
+  text-decoration:none;
+  font-size:1.5rem;
+  font-weight:600;
+  display:block;
+  padding:0.5rem 1rem;
+  }
+ #a1:focus{
+  background-color:yellow;
+  color:black;
+}
+ #a1:hover{
+  color:red;
+  background-color:#f0c808;
+  background-image:url(https://assets.codepen.io/296057/lil-yellowdots.png);
+}
+/**.logo{
+  flex-basis:500px;
+  text-align:center;
+}
+.logo a:hover{
+  background-image:none;
+  background-color:transparent;
+}
+**/
+/* debut de css de nos sevice*/
